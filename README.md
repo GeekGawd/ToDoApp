@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
@@ -40,4 +39,3 @@ You can preview the production build with `npm run preview`.
 =======
 # ToDoApp
 Making a ToDo App with Svelte and Tailwind CSS
->>>>>>> 6543fe19951f38e2c7bd0ce064dc161b9dcce701
